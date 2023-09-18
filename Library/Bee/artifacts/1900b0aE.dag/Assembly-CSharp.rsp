@@ -343,7 +343,12 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/AssetPackage/Scripts/AutoMoveScript.cs"
+"Assets/AssetPackage/Scripts/ProjectileScript.cs"
+"Assets/AssetPackage/Scripts/RandomRingSpawning.cs"
+"Assets/AssetPackage/Scripts/ScrollingScript.cs"
 "Assets/AssetPackage/Scripts/ShipMove.cs"
+"Assets/AssetPackage/Scripts/ShootingScript.cs"
 -langversion:9.0
 
 /deterministic
